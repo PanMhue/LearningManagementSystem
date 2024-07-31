@@ -1,0 +1,271 @@
+2024-07-28 14:37:52 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-28 14:37:52 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-28 14:37:52 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-28 14:37:52 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-28 14:40:28 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-28 14:40:31 +06:30 [INF: ] Login method called
+2024-07-28 14:40:31 +06:30 [INF: UserController] Login method called
+2024-07-28 14:40:32 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-28 14:40:32 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 3997.2352 ms
+2024-07-28 14:40:54 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 403 in 140.3395 ms
+2024-07-28 14:42:16 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 403 in 4.1830 ms
+2024-07-28 14:42:56 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 403 in 80.8617 ms
+2024-07-28 14:43:25 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-28 14:43:25 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-28 14:43:25 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-28 14:43:25 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-28 14:43:59 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-28 14:43:59 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 403 in 151.2820 ms
+2024-07-28 14:47:46 +06:30 [INF: ] Login method called
+2024-07-28 14:47:46 +06:30 [INF: UserController] Login method called
+2024-07-28 14:47:46 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-28 14:47:47 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 23998.5657 ms
+2024-07-28 14:48:07 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 403 in 9.0147 ms
+2024-07-28 14:51:16 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-28 14:51:16 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-28 14:51:16 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-28 14:51:16 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-28 14:51:39 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-28 14:51:39 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 403 in 145.0946 ms
+2024-07-28 14:51:42 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 403 in 3.6667 ms
+2024-07-28 14:52:52 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-28 14:52:52 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-28 14:52:52 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-28 14:52:52 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-28 14:52:53 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-28 14:52:53 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 403 in 130.5994 ms
+2024-07-28 14:52:57 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 403 in 3.8037 ms
+2024-07-28 14:53:13 +06:30 [INF: ] Login method called
+2024-07-28 14:53:13 +06:30 [INF: UserController] Login method called
+2024-07-28 14:53:13 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-28 14:53:14 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 6231.0430 ms
+2024-07-28 14:54:24 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/swagger/index.html" responded 200 in 87.8357 ms
+2024-07-28 14:54:25 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 178.8732 ms
+2024-07-28 14:56:26 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 403 in 5.5938 ms
+2024-07-28 14:57:48 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-28 14:57:48 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-28 14:57:48 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-28 14:57:48 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-28 14:57:57 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-28 14:58:12 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-28 14:58:30 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 401 in 33210.0176 ms
+2024-07-28 14:58:48 +06:30 [INF: ] Login method called
+2024-07-28 14:58:48 +06:30 [INF: UserController] Login method called
+2024-07-28 14:58:48 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 5658.2881 ms
+2024-07-28 15:03:06 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-28 15:03:06 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-28 15:03:06 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-28 15:03:06 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-28 15:04:01 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-28 15:04:30 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-28 15:04:34 +06:30 [ERR: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 500 in 33643.7977 ms
+MySqlConnector.MySqlException (0x80004005): Table 'ojtprogramdb.rolepermissions' doesn't exist
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 885
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 130
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 482
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 350
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 434
+   at AppDB.GetAll[T](String command, Object parms) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Models\AppDB.cs:line 35
+   at OjtProgramApi.Repositories.RepositoryBase`1.GetAll[RT](String query, Object parameters) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Repositories\RepositoryBase.cs:line 18
+   at OjtProgramApi.Repositories.RolePermissionRepository.GetRolePermission(Int32 roleID, String endpoint) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Repositories\RolePermissionRepository.cs:line 18
+   at OjtProgramApi.CustomMiddleware.AuthorizeUserMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\CustomMiddleware\RoleBasedAuthorizationMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-07-28 15:04:34 +06:30 [ERR: Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware] An unhandled exception has occurred while executing the request.
+MySqlConnector.MySqlException (0x80004005): Table 'ojtprogramdb.rolepermissions' doesn't exist
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 885
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 130
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 482
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 350
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 434
+   at AppDB.GetAll[T](String command, Object parms) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Models\AppDB.cs:line 35
+   at OjtProgramApi.Repositories.RepositoryBase`1.GetAll[RT](String query, Object parameters) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Repositories\RepositoryBase.cs:line 18
+   at OjtProgramApi.Repositories.RolePermissionRepository.GetRolePermission(Int32 roleID, String endpoint) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Repositories\RolePermissionRepository.cs:line 18
+   at OjtProgramApi.CustomMiddleware.AuthorizeUserMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\CustomMiddleware\RoleBasedAuthorizationMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-28 15:06:24 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-28 15:06:24 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-28 15:06:24 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-28 15:06:24 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-28 15:08:24 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-28 15:08:24 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-28 15:08:24 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-28 15:08:24 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-28 15:09:02 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-28 15:09:10 +06:30 [INF: ] Login method called
+2024-07-28 15:09:10 +06:30 [INF: UserController] Login method called
+2024-07-28 15:09:11 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-28 15:09:11 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 8931.8440 ms
+2024-07-28 15:09:32 +06:30 [ERR: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 500 in 647.6842 ms
+MySqlConnector.MySqlException (0x80004005): SELECT command denied to user 'ojt_user'@'localhost' for table 'role_permissions'
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 885
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 130
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 482
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 350
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 434
+   at AppDB.GetAll[T](String command, Object parms) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Models\AppDB.cs:line 35
+   at OjtProgramApi.Repositories.RepositoryBase`1.GetAll[RT](String query, Object parameters) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Repositories\RepositoryBase.cs:line 18
+   at OjtProgramApi.Repositories.RolePermissionRepository.GetRolePermission(Int32 roleID, String endpoint) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Repositories\RolePermissionRepository.cs:line 18
+   at OjtProgramApi.CustomMiddleware.AuthorizeUserMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\CustomMiddleware\RoleBasedAuthorizationMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-07-28 15:09:32 +06:30 [ERR: Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware] An unhandled exception has occurred while executing the request.
+MySqlConnector.MySqlException (0x80004005): SELECT command denied to user 'ojt_user'@'localhost' for table 'role_permissions'
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 885
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 130
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 482
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 350
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 434
+   at AppDB.GetAll[T](String command, Object parms) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Models\AppDB.cs:line 35
+   at OjtProgramApi.Repositories.RepositoryBase`1.GetAll[RT](String query, Object parameters) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Repositories\RepositoryBase.cs:line 18
+   at OjtProgramApi.Repositories.RolePermissionRepository.GetRolePermission(Int32 roleID, String endpoint) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Repositories\RolePermissionRepository.cs:line 18
+   at OjtProgramApi.CustomMiddleware.AuthorizeUserMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\CustomMiddleware\RoleBasedAuthorizationMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-28 15:13:11 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 403 in 55.9509 ms
+2024-07-28 15:19:00 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-28 15:19:00 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-28 15:19:00 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-28 15:19:00 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-28 15:19:38 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-28 15:19:39 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-28 15:19:39 +06:30 [INF: UserController] GetAllUsers method called
+2024-07-28 15:19:39 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 200 in 1561.4930 ms
+2024-07-28 15:20:08 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 403 in 79.2605 ms
+2024-07-28 15:32:18 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-28 15:32:18 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-28 15:32:18 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-28 15:32:18 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-28 15:32:25 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-28 15:32:25 +06:30 [INF: ] Login method called
+2024-07-28 15:32:25 +06:30 [INF: UserController] Login method called
+2024-07-28 15:32:26 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-28 15:32:26 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 1304.1204 ms
+2024-07-28 15:32:47 +06:30 [INF: UserController] CreateUser method called
+2024-07-28 15:32:48 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 809.5653 ms
+2024-07-28 15:33:43 +06:30 [INF: UserController] CreateUser method called
+2024-07-28 15:33:43 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 122.0341 ms
+2024-07-28 15:36:37 +06:30 [INF: UserController] CreateUser method called
+2024-07-28 15:36:37 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 106.6248 ms
+2024-07-28 15:37:13 +06:30 [INF: UserController] CreateUser method called
+2024-07-28 15:37:13 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 105.1376 ms
+2024-07-28 15:38:00 +06:30 [INF: UserController] CreateUser method called
+2024-07-28 15:38:00 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 144.9663 ms
+2024-07-28 15:43:40 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 403 in 63.9396 ms
+2024-07-28 15:43:49 +06:30 [INF: ] Login method called
+2024-07-28 15:43:49 +06:30 [INF: UserController] Login method called
+2024-07-28 15:43:49 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 121.2039 ms
+2024-07-28 15:44:15 +06:30 [INF: UserController] CreateUser method called
+2024-07-28 15:44:15 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 132.7887 ms
+2024-07-28 16:16:07 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-28 16:16:07 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-28 16:16:07 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-28 16:16:07 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-28 16:19:05 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/swagger/index.html" responded 200 in 78.2225 ms
+2024-07-28 16:19:10 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/swagger/index.html" responded 200 in 1.4947 ms
+2024-07-28 16:19:10 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 90.0979 ms
+2024-07-28 16:20:47 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-28 16:21:06 +06:30 [INF: ] Login method called
+2024-07-28 16:21:06 +06:30 [INF: UserController] Login method called
+2024-07-28 16:21:06 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 19433.1955 ms
+2024-07-28 16:21:31 +06:30 [INF: ] Login method called
+2024-07-28 16:21:31 +06:30 [INF: UserController] Login method called
+2024-07-28 16:21:31 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 47.6289 ms
+2024-07-28 16:22:23 +06:30 [INF: ] Login method called
+2024-07-28 16:22:23 +06:30 [INF: UserController] Login method called
+2024-07-28 16:22:23 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-28 16:22:24 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 659.2514 ms
+2024-07-28 16:22:34 +06:30 [INF: ] Login method called
+2024-07-28 16:22:34 +06:30 [INF: UserController] Login method called
+2024-07-28 16:22:34 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 76.8151 ms
+2024-07-28 16:23:22 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 403 in 390.9853 ms
+2024-07-28 16:28:01 +06:30 [INF: ] Login method called
+2024-07-28 16:28:01 +06:30 [INF: UserController] Login method called
+2024-07-28 16:28:01 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 33.4283 ms
+2024-07-28 16:28:14 +06:30 [INF: UserController] GetAllUsers method called
+2024-07-28 16:28:25 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 200 in 10644.0734 ms
+2024-07-28 16:29:55 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "PUT" "/api/User/UpdateUser" responded 401 in 28.7925 ms
+2024-07-28 16:31:21 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 401 in 30.3996 ms
+2024-07-28 16:35:17 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 403 in 38.8858 ms
+2024-07-28 16:36:34 +06:30 [INF: CourseController] AssignCourse method called
+2024-07-28 16:36:35 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 200 in 205.6657 ms
+2024-07-28 16:57:12 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-28 16:57:12 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-28 16:57:12 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-28 16:57:12 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-28 16:57:28 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-28 16:57:29 +06:30 [INF: ] Login method called
+2024-07-28 16:57:29 +06:30 [INF: UserController] Login method called
+2024-07-28 16:57:29 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-28 16:57:30 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 1652.7717 ms
+2024-07-28 16:57:39 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 401 in 10.4011 ms
+2024-07-28 16:58:01 +06:30 [INF: ] Login method called
+2024-07-28 16:58:01 +06:30 [INF: UserController] Login method called
+2024-07-28 16:58:01 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 144.5318 ms
+2024-07-28 16:58:04 +06:30 [INF: UserController] GetAllUsers method called
+2024-07-28 16:58:04 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 200 in 322.5742 ms
+2024-07-28 16:59:04 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 401 in 1.5200 ms
+2024-07-28 16:59:15 +06:30 [INF: ] Login method called
+2024-07-28 16:59:15 +06:30 [INF: UserController] Login method called
+2024-07-28 16:59:15 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 32.6348 ms
+2024-07-28 16:59:23 +06:30 [INF: UserController] GetAllUsers method called
+2024-07-28 16:59:23 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 200 in 26.9892 ms
+2024-07-28 17:01:25 +06:30 [INF: UserController] CreateUser method called
+2024-07-28 17:01:26 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 175.6497 ms
+2024-07-28 23:37:14 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-28 23:37:14 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-28 23:37:14 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-28 23:37:14 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-28 23:39:39 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-28 23:39:40 +06:30 [INF: ] Login method called
+2024-07-28 23:39:40 +06:30 [INF: UserController] Login method called
+2024-07-28 23:39:40 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-28 23:39:41 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 1899.4889 ms
+2024-07-28 23:40:01 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/swagger/index.html" responded 200 in 57.9788 ms
+2024-07-28 23:40:01 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 198.4774 ms
+2024-07-28 23:40:02 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 215.4224 ms
+2024-07-28 23:40:02 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 222.3422 ms
+2024-07-28 23:40:02 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 71.1824 ms
+2024-07-28 23:40:12 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 3.9937 ms
+2024-07-28 23:40:18 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "PUT" "/api/User/UpdateUser" responded 401 in 8.0302 ms
+2024-07-28 23:41:16 +06:30 [INF: UserController] GetAllUsers method called
+2024-07-28 23:41:16 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 200 in 1141.2418 ms
+2024-07-28 23:41:59 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "PUT" "/api/User/UpdateUser" responded 403 in 32.6395 ms
+2024-07-28 23:43:00 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "PUT" "/api/User/UpdateUser" responded 403 in 15.3425 ms
+2024-07-28 23:43:29 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "PUT" "/api/User/UpdateUser" responded 403 in 16.4663 ms
+2024-07-28 23:43:58 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...

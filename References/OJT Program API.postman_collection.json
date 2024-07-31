@@ -1,0 +1,586 @@
+{
+	"info": {
+		"_postman_id": "3ad2121d-f2e3-4011-baf8-3fe08ab292e6",
+		"name": "OJT Program API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36563448"
+	},
+	"item": [
+		{
+			"name": "User",
+			"item": [
+				{
+					"name": "GetAllUser",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{url}}/User/GetAllUsers",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"User",
+								"GetAllUsers"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "CreateUser",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"userName\": \"admin\",\r\n    \"firstName\": \"dd\",\r\n    \"lastName\": \"dd\",\r\n    \"email\": \"admin1@gmail.com\",\r\n    \"password\": \"admin\",\r\n    \"roleID\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/User/CreateUser",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"User",
+								"CreateUser"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "UpdateUser",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"userID\": \"\",\r\n  \"userName\": \"\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/User/UpdateUser",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"User",
+								"UpdateUser"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "UnlockUser",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"userID\": \"\"\r\n  \r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/User/UnlockUser",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"User",
+								"UnlockUser"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DeleteUser",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"userID\": \"jqwB92rLfbPkOMyGFJe0IA==\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/User/DeleteUser",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"User",
+								"DeleteUser"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Course",
+			"item": [
+				{
+					"name": "AssignCourse",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"courseID\":2,\r\n  \"userID\":7,\r\n  \"role\": \"instructor\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/Course/AssignCourse",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"Course",
+								"AssignCourse"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "CreateCourse",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"courseName\": \"Program\",\r\n  \"description\": \"sleeping\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/Course/CreateCourse",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"Course",
+								"CreateCourse"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "ViewMyCourses",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaWQiOiI3IiwiaWF0IjoxNzIyMjI5MDI5LCJuYmYiOjE3MjIyMjkwMjksImV4cCI6MTcyMjIzMDgyOSwiaXNzIjoiUG1LayIsImF1ZCI6Ik9qdFByb2dyYW1BcGkifQ.BoUMF4_B5ltlFpEPDMirzeQvEgwQI8LtEAH70OTHhgE",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{url}}/Course/ViewMyCourses",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"Course",
+								"ViewMyCourses"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "StudentsInCourse",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"courseID\": 4\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/Course/GetStudentsInCourse",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"Course",
+								"GetStudentsInCourse"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "BanStudentsFromCourse",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"courseID\": 3,\r\n  \"studentID\": \"jqwB92rLfbPkOMyGFJe0IA==\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/Course/BanStudentFromCourse",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"Course",
+								"BanStudentFromCourse"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Exercise",
+			"item": [
+				{
+					"name": "CreateExercise",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"courseID\": 0,\r\n  \"title\": \"\",\r\n  \"description\": \"\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/Exercise/CreateExercise",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"Exercise",
+								"CreateExercise"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "MarkExercise",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"exerciseID\": 0,\r\n  \"studentID\": 0,\r\n  \"grade\": 0\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/Exercise/MarkExercise",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"Exercise",
+								"MarkExercise"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "ViewMyExercisesWithGrades",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{url}}/Exercise/ViewMyExercises",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"Exercise",
+								"ViewMyExercises"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "AssignExercise",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"courseID\": 1,\r\n  \"exerciseID\": 1,\r\n  \"userID\": \"r0NNMM//vrPVK3KtS0OPiQ==\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{url}}/Exercise/AssignExercise",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"Exercise",
+								"AssignExercise"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "login",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.collectionVariables.set('token', pm.response.json().accessToken)"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userNameOrEmail\": \"string01\",\r\n  \"password\": \"string\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/User/Login",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"User",
+						"Login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Instructor Login",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.collectionVariables.set('token', pm.response.json().accessToken)"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userNameOrEmail\": \"instructor\",\r\n  \"password\": \"instructor\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/User/Login",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"User",
+						"Login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Student Login",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.collectionVariables.set('token', pm.response.json().accessToken)"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userNameOrEmail\": \"student\",\r\n  \"password\": \"student\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/User/Login",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"User",
+						"Login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Test Login",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.collectionVariables.set('token', pm.response.json().accessToken)"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"userNameOrEmail\": \"B\",\r\n  \"password\": \"B\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/User/Login",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"User",
+						"Login"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "{{token}}",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "token",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"key": "url",
+			"value": "http://localhost:5202/api",
+			"type": "string"
+		}
+	]
+}

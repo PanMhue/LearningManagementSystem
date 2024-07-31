@@ -1,0 +1,6 @@
+@OjtProgramApi_HostAddress = http://localhost:5202
+
+GET {{OjtProgramApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

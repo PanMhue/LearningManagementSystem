@@ -1,0 +1,484 @@
+2024-07-31 02:56:30 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-31 02:56:30 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-31 02:56:30 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-31 02:56:30 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-31 02:57:56 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-31 02:57:58 +06:30 [INF: UserController] Login method called
+2024-07-31 02:57:59 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-31 02:57:59 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 3142.5901 ms
+2024-07-31 02:58:06 +06:30 [INF: UserController] GetAllUser method called
+2024-07-31 02:58:06 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 200 in 670.4902 ms
+2024-07-31 02:59:05 +06:30 [INF: UserController] CreateUser method called
+2024-07-31 02:59:05 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 105.2018 ms
+2024-07-31 02:59:52 +06:30 [INF: UserController] CreateUser method called
+2024-07-31 02:59:52 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 128.8382 ms
+2024-07-31 03:00:18 +06:30 [INF: UserController] CreateUser method called
+2024-07-31 03:00:18 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 35.6154 ms
+2024-07-31 03:01:29 +06:30 [INF: UserController] GetAllUser method called
+2024-07-31 03:01:29 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 200 in 99.3802 ms
+2024-07-31 03:01:56 +06:30 [INF: UserController] CreateUser method called
+2024-07-31 03:03:06 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 69617.6058 ms
+2024-07-31 03:05:01 +06:30 [INF: UserController] UpdateUser method called
+2024-07-31 03:05:02 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "PUT" "/api/User/UpdateUser" responded 200 in 250.6392 ms
+2024-07-31 03:05:21 +06:30 [INF: UserController] Login method called
+2024-07-31 03:05:21 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 135.8581 ms
+2024-07-31 03:05:42 +06:30 [INF: UserController] Login method called
+2024-07-31 03:05:42 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 154.3035 ms
+2024-07-31 03:05:47 +06:30 [INF: UserController] Login method called
+2024-07-31 03:05:47 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 131.2534 ms
+2024-07-31 03:05:52 +06:30 [INF: UserController] Login method called
+2024-07-31 03:05:52 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 136.1072 ms
+2024-07-31 03:06:02 +06:30 [INF: UserController] Login method called
+2024-07-31 03:06:02 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 12.5625 ms
+2024-07-31 03:06:14 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "PUT" "/api/User/UnlockUser" responded 401 in 16.6945 ms
+2024-07-31 03:06:20 +06:30 [INF: UserController] Login method called
+2024-07-31 03:06:20 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 139.2508 ms
+2024-07-31 03:06:25 +06:30 [INF: UserController] UnlockUser method called
+2024-07-31 03:06:25 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "PUT" "/api/User/UnlockUser" responded 200 in 102.7899 ms
+2024-07-31 03:06:45 +06:30 [INF: UserController] UpdateUser method called
+2024-07-31 03:06:45 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "PUT" "/api/User/UpdateUser" responded 200 in 166.4844 ms
+2024-07-31 03:06:55 +06:30 [INF: UserController] Login method called
+2024-07-31 03:06:55 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 113.1221 ms
+2024-07-31 03:08:01 +06:30 [INF: UserController] DeleteUser method called
+2024-07-31 03:08:01 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "DELETE" "/api/User/DeleteUser" responded 200 in 195.4069 ms
+2024-07-31 03:08:59 +06:30 [INF: UserController] CreateUser method called
+2024-07-31 03:08:59 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 31.2853 ms
+2024-07-31 03:09:16 +06:30 [INF: CourseController] CreateCourse method called
+2024-07-31 03:09:16 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/CreateCourse" responded 200 in 369.5575 ms
+2024-07-31 03:09:55 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 400 in 81.0591 ms
+2024-07-31 03:10:19 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/swagger/index.html" responded 200 in 57.5066 ms
+2024-07-31 03:10:21 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 167.1163 ms
+2024-07-31 03:10:23 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/swagger/index.html" responded 200 in 0.5782 ms
+2024-07-31 03:10:23 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 16.8763 ms
+2024-07-31 03:11:39 +06:30 [INF: CourseController] AssignCourse method called
+2024-07-31 03:11:39 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 200 in 229.2873 ms
+2024-07-31 03:12:12 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Course/ViewMyCourses" responded 403 in 24.9323 ms
+2024-07-31 03:12:26 +06:30 [INF: UserController] Login method called
+2024-07-31 03:12:26 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 91.2253 ms
+2024-07-31 03:12:29 +06:30 [INF: CourseController] ViewMyCourses method called
+2024-07-31 03:12:30 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Course/ViewMyCourses" responded 200 in 124.3174 ms
+2024-07-31 03:12:40 +06:30 [INF: CourseController] GetStudentsInCourse method called
+2024-07-31 03:12:40 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/GetStudentsInCourse" responded 200 in 105.4745 ms
+2024-07-31 03:13:54 +06:30 [INF: ExerciseController] CreateExercise method called
+2024-07-31 03:13:54 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/CreateExercise" responded 200 in 147.1652 ms
+2024-07-31 03:17:28 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Exercise/AssignExercise" responded 403 in 86.4281 ms
+2024-07-31 03:17:36 +06:30 [INF: UserController] Login method called
+2024-07-31 03:17:36 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 129.5786 ms
+2024-07-31 03:17:53 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/AssignExercise" responded 403 in 42.8680 ms
+2024-07-31 03:19:07 +06:30 [INF: ExerciseController] AssignExercise method called
+2024-07-31 03:19:07 +06:30 [ERR: Microsoft.EntityFrameworkCore.Database.Command] Failed executing DbCommand ("12"ms) [Parameters=["@p0='0001-01-01T00:00:00.0000000' (DbType = DateTime), @p1='3', @p2='5', @p3='3'"], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO `exercise_assignments` (`AssignedAt`, `CourseID`, `ExerciseID`, `StudentID`)
+VALUES (@p0, @p1, @p2, @p3);
+SELECT `ExerciseAssignmentID`
+FROM `exercise_assignments`
+WHERE ROW_COUNT() = 1 AND `ExerciseAssignmentID` = LAST_INSERT_ID();"
+2024-07-31 03:19:07 +06:30 [ERR: Microsoft.EntityFrameworkCore.Update] An exception occurred in the database while saving changes for context type '"AppDB"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> MySqlConnector.MySqlException (0x80004005): INSERT command denied to user 'ojt_user'@'localhost' for table 'exercise_assignments'
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 885
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 130
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 482
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 350
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)"
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> MySqlConnector.MySqlException (0x80004005): INSERT command denied to user 'ojt_user'@'localhost' for table 'exercise_assignments'
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 885
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 130
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 482
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 350
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-07-31 03:19:07 +06:30 [ERR: ExerciseController] Error in AssignExercise method
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> MySqlConnector.MySqlException (0x80004005): INSERT command denied to user 'ojt_user'@'localhost' for table 'exercise_assignments'
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 885
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 130
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 482
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 350
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at OjtProgramApi.Repositories.RepositoryBase`1.Save() in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Repositories\RepositoryBase.cs:line 52
+   at ExerciseController.AssignExercise(AssignExerciseDTO assignmentDto) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Controllers\ExerciseController.cs:line 94
+2024-07-31 03:19:07 +06:30 [ERR: Microsoft.EntityFrameworkCore.Database.Command] Failed executing DbCommand ("2"ms) [Parameters=["@p0='2024-07-31T03:19:07.7610208+06:30' (DbType = DateTime), @p1='2', @p2='An error occurred while saving the entity changes. See the inner exception for details.' (Size = 4000), @p3='AssignExercise' (Nullable = false) (Size = 4000), @p4='Failed to assign exercise' (Size = 4000), @p5='ExerciseController' (Nullable = false) (Size = 4000), @p6='0001-01-01T00:00:00.0000000' (DbType = DateTime), @p7='3', @p8='5', @p9='3'"], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO `event_log` (`log_datetime`, `log_type`, `error_message`, `form_name`, `log_message`, `source`)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+INSERT INTO `exercise_assignments` (`AssignedAt`, `CourseID`, `ExerciseID`, `StudentID`)
+VALUES (@p6, @p7, @p8, @p9);
+SELECT `ExerciseAssignmentID`
+FROM `exercise_assignments`
+WHERE ROW_COUNT() = 1 AND `ExerciseAssignmentID` = LAST_INSERT_ID();"
+2024-07-31 03:19:07 +06:30 [ERR: Microsoft.EntityFrameworkCore.Update] An exception occurred in the database while saving changes for context type '"AppDB"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> MySqlConnector.MySqlException (0x80004005): INSERT command denied to user 'ojt_user'@'localhost' for table 'exercise_assignments'
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 885
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 130
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 482
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 350
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)"
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> MySqlConnector.MySqlException (0x80004005): INSERT command denied to user 'ojt_user'@'localhost' for table 'exercise_assignments'
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 885
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 130
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 482
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 350
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-07-31 03:19:08 +06:30 [ERR: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/AssignExercise" responded 500 in 690.4591 ms
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> MySqlConnector.MySqlException (0x80004005): INSERT command denied to user 'ojt_user'@'localhost' for table 'exercise_assignments'
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 885
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 130
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 482
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 350
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at OjtProgramApi.Repositories.RepositoryBase`1.Save() in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Repositories\RepositoryBase.cs:line 52
+   at OjtProgramApi.Repositories.EventLogRepository.ErrorEventLog(String controllerName, String functionname, String logMessage, String errorMessage) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Repositories\EventLogRepository.cs:line 67
+   at ExerciseController.AssignExercise(AssignExerciseDTO assignmentDto) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Controllers\ExerciseController.cs:line 110
+   at lambda_method449(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at OjtProgramApi.CustomMiddleware.AuthorizeUserMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\CustomMiddleware\RoleBasedAuthorizationMiddleware.cs:line 52
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-07-31 03:19:08 +06:30 [ERR: Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> MySqlConnector.MySqlException (0x80004005): INSERT command denied to user 'ojt_user'@'localhost' for table 'exercise_assignments'
+   at MySqlConnector.Core.ServerSession.ReceiveReplyAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/ServerSession.cs:line 885
+   at MySqlConnector.Core.ResultSet.ReadResultSetHeaderAsync(IOBehavior ioBehavior) in /_/src/MySqlConnector/Core/ResultSet.cs:line 37
+   at MySqlConnector.MySqlDataReader.ActivateResultSet(CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 130
+   at MySqlConnector.MySqlDataReader.InitAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, IDictionary`2 cachedProcedures, IMySqlCommand command, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlDataReader.cs:line 482
+   at MySqlConnector.Core.CommandExecutor.ExecuteReaderAsync(CommandListPosition commandListPosition, ICommandPayloadCreator payloadCreator, CommandBehavior behavior, Activity activity, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/Core/CommandExecutor.cs:line 56
+   at MySqlConnector.MySqlCommand.ExecuteReaderAsync(CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 357
+   at MySqlConnector.MySqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken) in /_/src/MySqlConnector/MySqlCommand.cs:line 350
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at OjtProgramApi.Repositories.RepositoryBase`1.Save() in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Repositories\RepositoryBase.cs:line 52
+   at OjtProgramApi.Repositories.EventLogRepository.ErrorEventLog(String controllerName, String functionname, String logMessage, String errorMessage) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Repositories\EventLogRepository.cs:line 67
+   at ExerciseController.AssignExercise(AssignExerciseDTO assignmentDto) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\Controllers\ExerciseController.cs:line 110
+   at lambda_method449(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at OjtProgramApi.CustomMiddleware.AuthorizeUserMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi\CustomMiddleware\RoleBasedAuthorizationMiddleware.cs:line 52
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-07-31 03:20:02 +06:30 [INF: ExerciseController] AssignExercise method called
+2024-07-31 03:20:02 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/AssignExercise" responded 200 in 168.4178 ms
+2024-07-31 03:21:07 +06:30 [INF: ExerciseController] AssignExercise method called
+2024-07-31 03:21:07 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/AssignExercise" responded 400 in 44.2648 ms
+2024-07-31 03:21:36 +06:30 [INF: ExerciseController] AssignExercise method called
+2024-07-31 03:21:36 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/AssignExercise" responded 400 in 26.7094 ms
+2024-07-31 03:21:55 +06:30 [INF: ExerciseController] AssignExercise method called
+2024-07-31 03:21:55 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/AssignExercise" responded 200 in 144.6338 ms
+2024-07-31 03:24:05 +06:30 [INF: ExerciseController] AssignExercise method called
+2024-07-31 03:24:05 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/AssignExercise" responded 400 in 28.0766 ms
+2024-07-31 03:24:32 +06:30 [INF: ExerciseController] CreateExercise method called
+2024-07-31 03:24:32 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/CreateExercise" responded 200 in 301.7584 ms
+2024-07-31 03:24:42 +06:30 [INF: ExerciseController] AssignExercise method called
+2024-07-31 03:24:42 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/AssignExercise" responded 400 in 21.4771 ms
+2024-07-31 03:25:59 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Exercise/ViewMyExercises" responded 404 in 23.8859 ms
+2024-07-31 03:26:34 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Exercise/ViewMyExercisesWithGrades" responded 403 in 44.1443 ms
+2024-07-31 03:26:39 +06:30 [INF: UserController] Login method called
+2024-07-31 03:26:39 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 57.3719 ms
+2024-07-31 03:26:43 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Exercise/ViewMyExercisesWithGrades" responded 403 in 18.8809 ms
+2024-07-31 03:26:59 +06:30 [INF: UserController] Login method called
+2024-07-31 03:26:59 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 81.8027 ms
+2024-07-31 03:27:04 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Exercise/ViewMyExercisesWithGrades" responded 403 in 14.3627 ms
+2024-07-31 03:28:04 +06:30 [INF: ExerciseController] ViewMyExercisesWithGrades method called
+2024-07-31 03:28:04 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Exercise/ViewMyExercisesWithGrades" responded 200 in 138.4735 ms
+2024-07-31 03:28:17 +06:30 [INF: UserController] Login method called
+2024-07-31 03:28:18 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 89.2946 ms
+2024-07-31 03:28:47 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/MarkExercise" responded 400 in 32.4717 ms
+2024-07-31 03:30:30 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 403 in 23.4714 ms
+2024-07-31 03:30:37 +06:30 [INF: UserController] Login method called
+2024-07-31 03:30:37 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 104.2598 ms
+2024-07-31 03:30:41 +06:30 [INF: CourseController] AssignCourse method called
+2024-07-31 03:30:42 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 200 in 241.1891 ms
+2024-07-31 03:30:48 +06:30 [INF: CourseController] AssignCourse method called
+2024-07-31 03:30:48 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 200 in 128.8422 ms
+2024-07-31 03:33:12 +06:30 [INF: CourseController] AssignCourse method called
+2024-07-31 03:33:12 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 200 in 290.3640 ms
+2024-07-31 03:34:28 +06:30 [INF: CourseController] AssignCourse method called
+2024-07-31 03:34:28 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 200 in 152.0504 ms
+2024-07-31 03:34:33 +06:30 [INF: CourseController] AssignCourse method called
+2024-07-31 03:34:33 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 200 in 95.5595 ms
+2024-07-31 03:35:45 +06:30 [INF: CourseController] AssignCourse method called
+2024-07-31 03:35:45 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 200 in 186.3451 ms
+2024-07-31 03:36:15 +06:30 [INF: CourseController] AssignCourse method called
+2024-07-31 03:36:15 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 200 in 153.9562 ms
+2024-07-31 03:36:26 +06:30 [INF: UserController] Login method called
+2024-07-31 03:36:26 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 121.5872 ms
+2024-07-31 03:37:18 +06:30 [INF: ExerciseController] AssignExercise method called
+2024-07-31 03:37:18 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/AssignExercise" responded 200 in 167.6121 ms
+2024-07-31 03:37:25 +06:30 [INF: ExerciseController] AssignExercise method called
+2024-07-31 03:37:25 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/AssignExercise" responded 400 in 17.8119 ms
+2024-07-31 03:38:59 +06:30 [INF: ExerciseController] AssignExercise method called
+2024-07-31 03:38:59 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/AssignExercise" responded 200 in 176.7355 ms
+2024-07-31 03:43:31 +06:30 [INF: CourseController] GetStudentsInCourse method called
+2024-07-31 03:43:31 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/GetStudentsInCourse" responded 200 in 158.9308 ms
+2024-07-31 03:44:40 +06:30 [INF: ExerciseController] AssignExercise method called
+2024-07-31 03:44:40 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/AssignExercise" responded 200 in 144.6500 ms
+2024-07-31 03:45:19 +06:30 [INF: ExerciseController] MarkExercise method called
+2024-07-31 03:45:19 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/MarkExercise" responded 200 in 180.1897 ms
+2024-07-31 03:45:35 +06:30 [INF: ExerciseController] MarkExercise method called
+2024-07-31 03:45:35 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/MarkExercise" responded 200 in 151.3171 ms
+2024-07-31 03:45:48 +06:30 [INF: ExerciseController] MarkExercise method called
+2024-07-31 03:45:48 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Exercise/MarkExercise" responded 200 in 83.7790 ms
+2024-07-31 03:46:07 +06:30 [INF: CourseController] ViewMyCourses method called
+2024-07-31 03:46:07 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Course/ViewMyCourses" responded 200 in 88.9905 ms
+2024-07-31 03:47:59 +06:30 [INF: CourseController] GetStudentsInCourse method called
+2024-07-31 03:47:59 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/GetStudentsInCourse" responded 200 in 155.3416 ms
+2024-07-31 03:48:16 +06:30 [INF: CourseController] GetStudentsInCourse method called
+2024-07-31 03:48:16 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/GetStudentsInCourse" responded 200 in 97.2944 ms
+2024-07-31 03:48:26 +06:30 [INF: UserController] Login method called
+2024-07-31 03:48:26 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 119.7389 ms
+2024-07-31 03:48:46 +06:30 [INF: UserController] GetAllUser method called
+2024-07-31 03:48:46 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 200 in 85.4917 ms
+2024-07-31 03:49:21 +06:30 [INF: CourseController] AssignCourse method called
+2024-07-31 03:49:21 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 200 in 169.2709 ms
+2024-07-31 03:49:25 +06:30 [INF: CourseController] AssignCourse method called
+2024-07-31 03:49:26 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 200 in 121.6523 ms
+2024-07-31 03:49:30 +06:30 [INF: CourseController] AssignCourse method called
+2024-07-31 03:49:30 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/AssignCourse" responded 200 in 122.1063 ms
+2024-07-31 03:49:36 +06:30 [INF: UserController] Login method called
+2024-07-31 03:49:37 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 88.9773 ms
+2024-07-31 03:49:42 +06:30 [INF: CourseController] GetStudentsInCourse method called
+2024-07-31 03:49:42 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/GetStudentsInCourse" responded 200 in 98.1262 ms
+2024-07-31 03:50:15 +06:30 [INF: CourseController] GetStudentsInCourse method called
+2024-07-31 03:50:15 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/GetStudentsInCourse" responded 200 in 97.2662 ms
+2024-07-31 03:50:57 +06:30 [INF: CourseController] BanStudentFromCourse method called
+2024-07-31 03:50:57 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/BanStudentFromCourse" responded 200 in 194.1706 ms
+2024-07-31 03:51:20 +06:30 [INF: CourseController] GetStudentsInCourse method called
+2024-07-31 03:51:20 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/GetStudentsInCourse" responded 200 in 106.3810 ms
+2024-07-31 03:52:16 +06:30 [INF: UserController] Login method called
+2024-07-31 03:52:16 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 126.1386 ms
+2024-07-31 03:52:21 +06:30 [INF: ExerciseController] ViewMyExercisesWithGrades method called
+2024-07-31 03:52:21 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Exercise/ViewMyExercisesWithGrades" responded 200 in 95.6674 ms
+2024-07-31 04:48:59 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-31 04:48:59 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-31 04:48:59 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-31 04:48:59 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-31 04:49:09 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-31 04:49:09 +06:30 [INF: UserController] Login method called
+2024-07-31 04:49:10 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-31 04:49:11 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 1833.4740 ms
+2024-07-31 04:49:19 +06:30 [INF: UserController] CreateUser method called
+2024-07-31 04:49:19 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 349.7590 ms
+2024-07-31 04:49:55 +06:30 [INF: UserController] CreateUser method called
+2024-07-31 04:49:55 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 34.9268 ms
+2024-07-31 04:52:11 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...
+2024-07-31 04:54:16 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-31 04:54:16 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-31 04:54:16 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-31 04:54:16 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-31 04:54:23 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-31 04:54:24 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-31 04:54:25 +06:30 [INF: UserController] CreateUser method called
+2024-07-31 04:54:25 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 1307.7353 ms
+2024-07-31 05:00:30 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...
+2024-07-31 05:01:08 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-31 05:01:08 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-31 05:01:08 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-31 05:01:08 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-31 05:01:30 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-31 05:01:31 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-31 05:01:31 +06:30 [INF: UserController] CreateUser method called
+2024-07-31 05:01:32 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 1498.8361 ms
+2024-07-31 05:01:51 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...
+2024-07-31 10:16:46 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-31 10:16:46 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-31 10:16:46 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-31 10:16:46 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-31 10:16:57 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-31 10:17:00 +06:30 [INF: UserController] Login method called
+2024-07-31 10:17:02 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-31 10:17:03 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 6284.2187 ms
+2024-07-31 10:17:10 +06:30 [INF: CourseController] ViewMyCourses method called
+2024-07-31 10:17:10 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Course/ViewMyCourses" responded 200 in 817.2042 ms
+2024-07-31 10:19:42 +06:30 [INF: CourseController] GetStudentsInCourse method called
+2024-07-31 10:19:42 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/GetStudentsInCourse" responded 200 in 364.1305 ms
+2024-07-31 10:23:53 +06:30 [INF: UserController] Login method called
+2024-07-31 10:23:54 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 148.7883 ms
+2024-07-31 10:24:05 +06:30 [INF: CourseController] ViewMyCourses method called
+2024-07-31 10:24:05 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Course/ViewMyCourses" responded 200 in 83.6418 ms
+2024-07-31 10:44:55 +06:30 [INF: UserController] Login method called
+2024-07-31 10:44:55 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 173.4555 ms
+2024-07-31 10:45:09 +06:30 [INF: CourseController] ViewMyCourses method called
+2024-07-31 10:45:09 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Course/ViewMyCourses" responded 200 in 120.3785 ms
+2024-07-31 10:45:47 +06:30 [INF: CourseController] GetStudentsInCourse method called
+2024-07-31 10:45:48 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/Course/GetStudentsInCourse" responded 200 in 93.2840 ms
+2024-07-31 10:48:35 +06:30 [INF: UserController] Login method called
+2024-07-31 10:48:35 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 111.5105 ms
+2024-07-31 10:48:41 +06:30 [INF: CourseController] ViewMyCourses method called
+2024-07-31 10:48:41 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Course/ViewMyCourses" responded 200 in 92.7044 ms
+2024-07-31 10:48:54 +06:30 [INF: ExerciseController] ViewMyExercisesWithGrades method called
+2024-07-31 10:48:54 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Exercise/ViewMyExercisesWithGrades" responded 200 in 105.1434 ms
+2024-07-31 11:13:23 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-31 11:13:23 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-31 11:13:23 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-31 11:13:23 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-31 11:18:12 +06:30 [INF: Microsoft.Hosting.Lifetime] Application is shutting down...
+2024-07-31 11:19:40 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-31 11:19:40 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-31 11:19:40 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-31 11:19:40 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-31 11:20:54 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-31 11:20:54 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 403 in 141.7702 ms
+2024-07-31 11:21:00 +06:30 [INF: UserController] Login method called
+2024-07-31 11:21:01 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-31 11:21:01 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 1570.3442 ms
+2024-07-31 11:21:06 +06:30 [INF: UserController] CreateUser method called
+2024-07-31 11:21:06 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 772.9989 ms
+2024-07-31 11:36:04 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-31 11:36:04 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-31 11:36:04 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-31 11:36:04 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-31 11:37:35 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-31 11:37:37 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-31 11:37:38 +06:30 [INF: UserController] CreateUser method called
+2024-07-31 11:37:38 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 2150.6071 ms
+2024-07-31 11:43:24 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-31 11:43:24 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-31 11:43:24 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-31 11:43:24 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-31 11:43:41 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-31 11:43:42 +06:30 [INF: UserController] Login method called
+2024-07-31 11:43:43 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-31 11:43:44 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 2239.7843 ms
+2024-07-31 11:43:59 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 403 in 9.5873 ms
+2024-07-31 11:44:06 +06:30 [INF: UserController] Login method called
+2024-07-31 11:44:06 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 208.0201 ms
+2024-07-31 11:44:11 +06:30 [INF: UserController] GetAllUser method called
+2024-07-31 11:44:11 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/User/GetAllUsers" responded 200 in 651.2792 ms
+2024-07-31 11:44:42 +06:30 [INF: UserController] DeleteUser method called
+2024-07-31 11:44:42 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "DELETE" "/api/User/DeleteUser" responded 200 in 399.3552 ms
+2024-07-31 11:44:49 +06:30 [INF: UserController] CreateUser method called
+2024-07-31 11:44:49 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 69.3379 ms
+2024-07-31 12:29:00 +06:30 [INF: Microsoft.Hosting.Lifetime] Now listening on: "http://localhost:5202"
+2024-07-31 12:29:00 +06:30 [INF: Microsoft.Hosting.Lifetime] Application started. Press Ctrl+C to shut down.
+2024-07-31 12:29:00 +06:30 [INF: Microsoft.Hosting.Lifetime] Hosting environment: "Development"
+2024-07-31 12:29:00 +06:30 [INF: Microsoft.Hosting.Lifetime] Content root path: "C:\Users\pan mhue khin khin\Desktop\Final Project\OjtProgramApi"
+2024-07-31 12:29:14 +06:30 [WRN: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware] Failed to determine the https port for redirect.
+2024-07-31 12:29:14 +06:30 [INF: UserController] Login method called
+2024-07-31 12:29:15 +06:30 [WRN: Microsoft.EntityFrameworkCore.Model.Validation] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-07-31 12:29:16 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/Login" responded 200 in 1982.3348 ms
+2024-07-31 12:29:26 +06:30 [INF: UserController] CreateUser method called
+2024-07-31 12:29:27 +06:30 [INF: Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "POST" "/api/User/CreateUser" responded 200 in 709.7043 ms

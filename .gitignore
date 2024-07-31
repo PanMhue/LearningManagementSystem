@@ -1,0 +1,10 @@
+/OjtProgramApi/bin/*
+/OjtProgramApi/obj/*
+/OjtProgramApi/.vscode/*
+
+
+/OjtProgramApi/obj
+/OjtProgramApi.Tests/bin/*
+/OjtProgramApi.Tests/obj/*
+/OjtProgramApi.Tests/obj
+
